@@ -31,10 +31,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Summary: I log into Azure and setup a vitual machine. Next I setup the osTicket requirments on the VM including a database and web server. I  then download osTicket, install it and explor its interface. I am able to setup users and adjust their permimssions. I also create and close ghost tickets. 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yyDL3Vy" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I created a new virtual machine in the Azure cloud.
 </p>
 <br />
 
